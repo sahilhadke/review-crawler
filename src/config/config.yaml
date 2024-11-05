@@ -1,0 +1,5 @@
+max_reviews: "10"
+yelp:
+  url: "https://yelp.com/"
+google:
+  url: "https://www.google.com/"
