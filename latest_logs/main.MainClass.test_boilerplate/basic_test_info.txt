@@ -1,0 +1,15 @@
+main.py::MainClass::test_boilerplate
+--------------------------------------------------------------------
+Last Page: data:,
+ Duration: 0.27s
+  Browser: Chrome 130.0.6723.116
+   Driver: chromedriver 124.0.6367.155
+Timestamp: 1730929171  (Unix Timestamp)
+     Date: Wednesday, November 6, 2024
+     Time: 2:39:31 PM  (MST, UTC-07:00)
+--------------------------------------------------------------------
+Traceback:
+  File "/Users/sahilhadke/Desktop/PROJECTS/review-crawler/crawlers/google_crawler.py", line 5, in test_boilerplate
+    self.open(self.url)
+              ^^^^^^^^
+Exception: 'MainClass' object has no attribute 'url'
