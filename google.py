@@ -60,10 +60,6 @@ class MyTestClass(BaseCase):
         review_block_class_xpath = "//*[contains(text(), 'Sort') and contains(@class, 'fontTitleSmall')]/../../../../../../div[3]/div[8]/div[1]"
         if self.is_element_visible(review_block_class_xpath):
             review_block_class = str(self.get_attribute(review_block_class_xpath, 'class'))
-        else:
-            # print('No reviews found')
-            # return
-            pass
         
         reviews = []
         count = 1
