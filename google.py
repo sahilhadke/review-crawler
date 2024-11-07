@@ -9,8 +9,8 @@ class MyTestClass(BaseCase):
 
     def test_swag_labs(self):
         self.maximize_window()
-        name = "Thai Basil"
-        location = "Tempe"
+        name = "Advertiser+Advisors+LLC"
+        location = "tempe"
         name = name.replace(" ", "+").lower().strip()
         location = location.replace(" ", "+").lower().strip()
         name = name + "+" + location
@@ -19,52 +19,103 @@ class MyTestClass(BaseCase):
         self.wait(random.randint(1, 2))
 
         # click on first restaurant
-        if self.is_element_visible("//h1[contains(text(),'Results')]/../../../../div[3]/div/a"):
-            self.click("//h1[contains(text(),'Results')]/../../../../div[3]/div/a")
+        restaurant_xpath = "//h1[contains(text(),'Results')]/../../../../div[3]/div/a"
+        if self.is_element_visible(restaurant_xpath):
+            self.click(restaurant_xpath)
         
         self.wait(random.randint(1, 2))
 
         # click on reviews
-        self.click("//button/div/div[contains(text(),'Reviews')]")
+        review_button_xpath = "//button/div/div[contains(text(),'Reviews')]"
+        if self.is_element_visible(review_button_xpath):
+            self.click(review_button_xpath)
+            self.wait(random.randint(1, 2))
+        else:
+            print('No reviews found')
+            return
 
 
-        self.wait(random.randint(1, 2))
-
-        self.scroll_into_view("//*[contains(@aria-label, 'Refine reviews')]/../div[8]")
-
-        self.wait(random.randint(1, 2))
-        self.scroll_into_view("//*[contains(@aria-label, 'Refine reviews')]/../div[9]")
-
+        # scroll to reviews
+        review_block_xpath = "//*[contains(@aria-label, 'Refine reviews')]/../div[8]"
+        if self.is_element_visible(review_block_xpath):
+            self.scroll_into_view(review_block_xpath)
+            self.wait(random.randint(1, 2))
+        else:
+            # print('No reviews found')
+            # return
+            pass
+        
+        # scroll to reviews
+        review_block_xpath = "//*[contains(@aria-label, 'Refine reviews')]/../div[9]"
+        if self.is_element_visible(review_block_xpath):
+            self.scroll_into_view(review_block_xpath)
+            self.wait(random.randint(1, 2))
+        else:
+            # print('No reviews found')
+            # return
+            pass
+        
+        review_block_class = "jftiEf"
         # get the class name of one review block
-        review_block_class = str(self.get_attribute("//*[contains(@aria-label, 'Refine reviews')]/../div[9]/div[1]/div/div", 'class'))
-
+        review_block_class_xpath = "//*[contains(text(), 'Sort') and contains(@class, 'fontTitleSmall')]/../../../../../../div[3]/div[8]/div[1]"
+        if self.is_element_visible(review_block_class_xpath):
+            review_block_class = str(self.get_attribute(review_block_class_xpath, 'class'))
+        else:
+            # print('No reviews found')
+            # return
+            pass
+        
         reviews = []
         count = 1
-        while count < 3:
-            # get name of the reviewer
-            self.scroll_into_view(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[2]/div[2]/div[1]/button/div[1]")
+        while count < 15+1:
             
-            self.wait(random.randint(1, 2))
-            name = self.get_text(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[2]/div[2]/div[1]/button/div[1]")
-            print(name)
+            name = ""
+            star = ""
+            date = ""
+            review = ""
+
+            # get name of the reviewer
+            name_xpath = f"((//*[contains(@class, '{review_block_class}')])[{count}]//button[1])[2]/div[1]"
+            if self.is_element_visible(name_xpath):
+                self.scroll_into_view(name_xpath)
+                self.wait(random.randint(1, 2))
+                name = self.get_text(name_xpath)
+                 
+            else:
+                print('Could not retrieve name: ', count)
+                break
 
             # get star
-            self.scroll_into_view(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div/span[1]")
-            star = self.get_attribute(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div/span[1]", 'aria-label') 
-            print(star)
+            star_xpath = f"(//*[contains(@class, '{review_block_class}')])[{count}]//span[@role='img']"
+            if self.is_element_visible(star_xpath):
+                self.scroll_into_view(star_xpath)
+                star = self.get_attribute(star_xpath, 'aria-label')
+            else:
+                print('Could not retrieve star: ', count)
+                break
+
             # get date
-            date = self.get_text(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div/span[2]")
-            print(date)
+            date_xpath = f"(//*[contains(@class, '{review_block_class}')])[{count}]//span[@role='img']/../span[2]"
+            if self.is_element_visible(date_xpath):
+                self.scroll_into_view(date_xpath)
+                date = self.get_text(date_xpath)
+            else:
+                print('Could not retrieve date: ', count)
+                break
 
-            # check if more button present
-            # if self.is_element_present(f"((//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div[2]/div/span[2]/button"):
-            self.click(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div[2]/div/span[2]/button")
-            
-
-            self.wait(random.randint(1, 2))
             # get review
-            review = self.get_text(f"(//*[contains(@class, '{review_block_class}')])[{count}]/div[4]/div[2]/div[1]/span")
-            print(review)
+            review_xpath = f"((//*[contains(@class, '{review_block_class}')])[{count}]//div[@class='MyEned']/span)[1]"
+            if self.is_element_visible(review_xpath):
+                self.scroll_into_view(review_xpath)
+                
+                # click on more button
+                more_button_xpath = f"((//*[contains(@class, '{review_block_class}')])[{count}]//div[@class='MyEned']/span)[2]"
+                if self.is_element_visible(more_button_xpath):
+                    self.click(more_button_xpath)
+                review = self.get_text(review_xpath)
+            else:
+                print('Could not retrieve review: ', count)
+                break
 
             temp = {
                 "name": name,
@@ -73,7 +124,6 @@ class MyTestClass(BaseCase):
                 "review": review
             }
             reviews.append(temp)
-
             count += 1
 
         print(reviews)
