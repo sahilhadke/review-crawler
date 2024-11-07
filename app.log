@@ -47,3 +47,136 @@ Ambiance: from the outside it feels like an adventure. The second you open the d
 Are we going back? Absolutely!
 Should you go? 100%
 2024-11-07 14:29:57,032 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:52:36,599 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:52:41,187 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:52:53,249 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 14:52:53,382 - app_logger - INFO - Retrieved name of reviewer for review 1: Praveen S.
+2024-11-07 14:52:53,429 - app_logger - INFO - Retrieved star rating for review 1: 5 star rating
+2024-11-07 14:52:53,484 - app_logger - INFO - Retrieved date for review 1: Oct 21, 2024
+2024-11-07 14:52:53,539 - app_logger - INFO - Retrieved review for review 1: As I sat down, they got this papad with Chutneys! The setup got me in the mood to enjoy some chaat.
+Ordered Papadi Chaat and it was lip smacking ! The Papadi itself was freshly fried, I think. Tasty and I could feel the freshness.
+Dahi bhalle was equally delicious. Best part was - curd wasn't sweet! A rarity! Enjoyed a lot.
+
+Will visit again for proper lunch / dinner food.
+
+Servers were friendly and though it was taking a while for food to be served, I enjoyed the ambience of the place.
+2024-11-07 14:52:57,572 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 14:52:57,629 - app_logger - INFO - Retrieved name of reviewer for review 2: Ben B.
+2024-11-07 14:52:57,676 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 14:52:57,726 - app_logger - INFO - Retrieved date for review 2: Jul 23, 2024
+2024-11-07 14:52:57,775 - app_logger - INFO - Retrieved review for review 2: Came here on a whim, and we immediately fell in love. We got there a little late but they still accommodated (We had planned on a to go order but they invited us to stay).
+
+Food: first off those little thin chips that break and you dip dip in the sauces. Amazing texture and the flavor was perfect. This was the first mango lassi that I actually liked. It was so good, I forgot I didn't like them. Then the samosas came out. They were full, packed to the rim with delicious flavor. We ordered Paneer "naan" with the tikka masala. We will ALWAYS come here now.
+
+Service: you know that feeling of going over to grandmas house and you know you are loved, you are safe and you know you're gonna eat GOOD? Same same. We were treated so well and even though it was close to closing time we only felt appreciation from them for us coming in. Drinks were always full, Nick was so welcoming and really made it a great experience.
+
+Ambiance: from the outside it feels like an adventure. The second you open the door and get a whiff of what's been cooking you know you made a good decision. The waiting area was comfortable and had a good aesthetic for the restaurant. The plate ware, cups and silverware were unique and fit the restaurant vibe perfectly.
+
+Are we going back? Absolutely!
+Should you go? 100%
+2024-11-07 14:52:57,910 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:53:00,851 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:53:06,452 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:53:20,487 - app_logger - WARNING - Could not find review block: 1
+2024-11-07 14:53:20,637 - app_logger - INFO - Saved 0 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:53:22,601 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:53:27,125 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:53:39,178 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 14:53:39,353 - app_logger - INFO - Retrieved name of reviewer for review 1: Praveen S.
+2024-11-07 14:53:39,399 - app_logger - INFO - Retrieved star rating for review 1: 5 star rating
+2024-11-07 14:53:39,450 - app_logger - INFO - Retrieved date for review 1: Oct 21, 2024
+2024-11-07 14:53:39,498 - app_logger - INFO - Retrieved review for review 1: As I sat down, they got this papad with Chutneys! The setup got me in the mood to enjoy some chaat.
+Ordered Papadi Chaat and it was lip smacking ! The Papadi itself was freshly fried, I think. Tasty and I could feel the freshness.
+Dahi bhalle was equally delicious. Best part was - curd wasn't sweet! A rarity! Enjoyed a lot.
+
+Will visit again for proper lunch / dinner food.
+
+Servers were friendly and though it was taking a while for food to be served, I enjoyed the ambience of the place.
+2024-11-07 14:53:42,530 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 14:53:42,594 - app_logger - INFO - Retrieved name of reviewer for review 2: Ben B.
+2024-11-07 14:53:42,641 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 14:53:42,691 - app_logger - INFO - Retrieved date for review 2: Jul 23, 2024
+2024-11-07 14:53:42,740 - app_logger - INFO - Retrieved review for review 2: Came here on a whim, and we immediately fell in love. We got there a little late but they still accommodated (We had planned on a to go order but they invited us to stay).
+
+Food: first off those little thin chips that break and you dip dip in the sauces. Amazing texture and the flavor was perfect. This was the first mango lassi that I actually liked. It was so good, I forgot I didn't like them. Then the samosas came out. They were full, packed to the rim with delicious flavor. We ordered Paneer "naan" with the tikka masala. We will ALWAYS come here now.
+
+Service: you know that feeling of going over to grandmas house and you know you are loved, you are safe and you know you're gonna eat GOOD? Same same. We were treated so well and even though it was close to closing time we only felt appreciation from them for us coming in. Drinks were always full, Nick was so welcoming and really made it a great experience.
+
+Ambiance: from the outside it feels like an adventure. The second you open the door and get a whiff of what's been cooking you know you made a good decision. The waiting area was comfortable and had a good aesthetic for the restaurant. The plate ware, cups and silverware were unique and fit the restaurant vibe perfectly.
+
+Are we going back? Absolutely!
+Should you go? 100%
+2024-11-07 14:53:42,894 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:53:44,837 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:53:49,996 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:54:03,083 - app_logger - WARNING - Could not find review block: 1
+2024-11-07 14:54:03,282 - app_logger - INFO - Saved 0 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:55:39,008 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:55:42,072 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:55:52,109 - app_logger - WARNING - No reviews found
+2024-11-07 14:55:54,532 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:55:57,720 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:56:07,747 - app_logger - WARNING - No reviews found
+2024-11-07 14:56:09,713 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:56:14,864 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:56:30,178 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 14:56:30,247 - app_logger - INFO - Retrieved name of reviewer for review 1: Praveen S.
+2024-11-07 14:56:30,296 - app_logger - INFO - Retrieved star rating for review 1: 5 star rating
+2024-11-07 14:56:30,376 - app_logger - INFO - Retrieved date for review 1: Oct 21, 2024
+2024-11-07 14:56:30,426 - app_logger - INFO - Retrieved review for review 1: As I sat down, they got this papad with Chutneys! The setup got me in the mood to enjoy some chaat.
+Ordered Papadi Chaat and it was lip smacking ! The Papadi itself was freshly fried, I think. Tasty and I could feel the freshness.
+Dahi bhalle was equally delicious. Best part was - curd wasn't sweet! A rarity! Enjoyed a lot.
+
+Will visit again for proper lunch / dinner food.
+
+Servers were friendly and though it was taking a while for food to be served, I enjoyed the ambience of the place.
+2024-11-07 14:56:34,483 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 14:56:34,541 - app_logger - INFO - Retrieved name of reviewer for review 2: Ben B.
+2024-11-07 14:56:34,588 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 14:56:34,639 - app_logger - INFO - Retrieved date for review 2: Jul 23, 2024
+2024-11-07 14:56:34,689 - app_logger - INFO - Retrieved review for review 2: Came here on a whim, and we immediately fell in love. We got there a little late but they still accommodated (We had planned on a to go order but they invited us to stay).
+
+Food: first off those little thin chips that break and you dip dip in the sauces. Amazing texture and the flavor was perfect. This was the first mango lassi that I actually liked. It was so good, I forgot I didn't like them. Then the samosas came out. They were full, packed to the rim with delicious flavor. We ordered Paneer "naan" with the tikka masala. We will ALWAYS come here now.
+
+Service: you know that feeling of going over to grandmas house and you know you are loved, you are safe and you know you're gonna eat GOOD? Same same. We were treated so well and even though it was close to closing time we only felt appreciation from them for us coming in. Drinks were always full, Nick was so welcoming and really made it a great experience.
+
+Ambiance: from the outside it feels like an adventure. The second you open the door and get a whiff of what's been cooking you know you made a good decision. The waiting area was comfortable and had a good aesthetic for the restaurant. The plate ware, cups and silverware were unique and fit the restaurant vibe perfectly.
+
+Are we going back? Absolutely!
+Should you go? 100%
+2024-11-07 14:56:34,866 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:56:36,935 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:56:40,151 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:56:55,313 - app_logger - WARNING - Could not find review block: 1
+2024-11-07 14:56:55,440 - app_logger - INFO - Saved 0 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:58:32,352 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:58:35,595 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:58:45,626 - app_logger - WARNING - No reviews found
+2024-11-07 14:58:47,708 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:58:51,857 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:59:08,227 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 14:59:08,294 - app_logger - INFO - Retrieved name of reviewer for review 1: Praveen S.
+2024-11-07 14:59:08,345 - app_logger - INFO - Retrieved star rating for review 1: 5 star rating
+2024-11-07 14:59:08,397 - app_logger - INFO - Retrieved date for review 1: Oct 21, 2024
+2024-11-07 14:59:08,449 - app_logger - INFO - Retrieved review for review 1: As I sat down, they got this papad with Chutneys! The setup got me in the mood to enjoy some chaat.
+Ordered Papadi Chaat and it was lip smacking ! The Papadi itself was freshly fried, I think. Tasty and I could feel the freshness.
+Dahi bhalle was equally delicious. Best part was - curd wasn't sweet! A rarity! Enjoyed a lot.
+
+Will visit again for proper lunch / dinner food.
+
+Servers were friendly and though it was taking a while for food to be served, I enjoyed the ambience of the place.
+2024-11-07 14:59:11,481 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 14:59:11,534 - app_logger - INFO - Retrieved name of reviewer for review 2: Ben B.
+2024-11-07 14:59:11,582 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 14:59:11,630 - app_logger - INFO - Retrieved date for review 2: Jul 23, 2024
+2024-11-07 14:59:11,680 - app_logger - INFO - Retrieved review for review 2: Came here on a whim, and we immediately fell in love. We got there a little late but they still accommodated (We had planned on a to go order but they invited us to stay).
+
+Food: first off those little thin chips that break and you dip dip in the sauces. Amazing texture and the flavor was perfect. This was the first mango lassi that I actually liked. It was so good, I forgot I didn't like them. Then the samosas came out. They were full, packed to the rim with delicious flavor. We ordered Paneer "naan" with the tikka masala. We will ALWAYS come here now.
+
+Service: you know that feeling of going over to grandmas house and you know you are loved, you are safe and you know you're gonna eat GOOD? Same same. We were treated so well and even though it was close to closing time we only felt appreciation from them for us coming in. Drinks were always full, Nick was so welcoming and really made it a great experience.
+
+Ambiance: from the outside it feels like an adventure. The second you open the door and get a whiff of what's been cooking you know you made a good decision. The waiting area was comfortable and had a good aesthetic for the restaurant. The plate ware, cups and silverware were unique and fit the restaurant vibe perfectly.
+
+Are we going back? Absolutely!
+Should you go? 100%
+2024-11-07 14:59:11,824 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json

@@ -55,7 +55,7 @@ class GoogleCrawler(ReviewCrawler):
                 sb.wait(2)  # Mandatory wait
             else:
                 self.logger.warning('No reviews found')
-                return
+                return 'No reviews found'
             
             # Scroll to reviews
             review_block_xpath = "//*[contains(@aria-label, 'Refine reviews')]/../div[8]"
@@ -133,6 +133,7 @@ class GoogleCrawler(ReviewCrawler):
                 os.makedirs(f"output/{self.restaurant_name.replace(' ', '_').lower()}")
             self.save_reviews_to_json(reviews, f"output/{self.restaurant_name.replace(' ', '_').lower()}/google_reviews.json")
 
+            return 'completed'
 class YelpCrawler(ReviewCrawler):
     """Crawler for extracting reviews from Yelp."""
     def __init__(self, max_reviews, restaurant_name, location, sleep_time_range=(1, 2)):
@@ -145,6 +146,7 @@ class YelpCrawler(ReviewCrawler):
         """Perform the crawling process to extract reviews."""
         reviews = []
         with SB() as sb:  # Opens and closes the Selenium session
+
             sb.maximize_window()
             name = self.restaurant_name.replace(" ", "+").lower().strip()
             location = self.location.replace(" ", "+").lower().strip()
@@ -161,19 +163,23 @@ class YelpCrawler(ReviewCrawler):
                 sb.wait(2)  # Mandatory wait
             else:
                 self.logger.warning('Wrong Google search, try different name')
-                return
+                return 'Wrong Google search, try different name'
             
             time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
             time.sleep(4)
 
-            # Get current URL and open with reviews
-            url = sb.get_current_url()
-            url = url + '#reviews'
-            sb.open(url)
-            self.logger.info(f"Opened Yelp with reviews for {name} in {location}")
+            if not sb.is_element_visible("//div[@id='reviews']"):
+                self.logger.warning('No reviews found') # either captha or blocked
+                return 'retry'
 
-            time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
-            time.sleep(4)
+            # get url add reviews
+            url = sb.get_current_url()
+            sb.open(f"{url}#reviews")
+            time.sleep(2)
+
+            if not sb.is_element_visible("//div[@id='reviews']"):
+                self.logger.warning('No reviews found') # either captha or blocked
+                return 'retry'
 
             count = 1
             current_page = 1
@@ -183,6 +189,7 @@ class YelpCrawler(ReviewCrawler):
                 date = ""
                 review = ""
                 time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
+
 
                 if current_page >= 11:
                     # Click on next page
@@ -247,7 +254,6 @@ class YelpCrawler(ReviewCrawler):
                     "date": date,
                     "review": review
                 })
-
                 count += 1
                 current_page += 1
             
@@ -257,3 +263,4 @@ class YelpCrawler(ReviewCrawler):
                 os.makedirs(f"output/{self.restaurant_name.replace(' ', '_').lower()}")
             self.save_reviews_to_json(reviews, f"output/{self.restaurant_name.replace(' ', '_').lower()}/yelp_reviews.json")
 
+            return "completed"
