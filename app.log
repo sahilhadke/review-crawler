@@ -1,0 +1,49 @@
+2024-11-07 14:26:10,227 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/google_reviews.json
+2024-11-07 14:26:29,613 - app_logger - WARNING - Could not find review block: 1
+2024-11-07 14:26:29,777 - app_logger - INFO - Saved 0 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 14:29:15,585 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:29:17,738 - app_logger - INFO - Clicked on the reviews button
+2024-11-07 14:29:19,759 - app_logger - INFO - Scrolled to reviews
+2024-11-07 14:29:20,779 - app_logger - INFO - Scrolled to reviews again
+2024-11-07 14:29:22,854 - app_logger - INFO - Retrieved name of reviewer for review 1: Baktesh Kamath
+2024-11-07 14:29:22,905 - app_logger - INFO - Retrieved star rating for review 1: 4 stars
+2024-11-07 14:29:22,961 - app_logger - INFO - Retrieved date for review 1: 3 months ago
+2024-11-07 14:29:23,085 - app_logger - INFO - Retrieved review for review 1: Good restaurant serving authentic Indian food especially North Indian cuisine. Bit spicy even for a normal Indian origin person so tell them in advance for medium spicy. Quantity or portion size are very good two people can easily share. Quality & taste is very good.  Rehriwale Dahi bhalle was a bit disappointing. Overall Good value for money. Their dal makhani and naan are highly recommended.
+2024-11-07 14:29:24,149 - app_logger - INFO - Retrieved name of reviewer for review 2: Janithza Lopez
+2024-11-07 14:29:24,220 - app_logger - INFO - Retrieved star rating for review 2: 4 stars
+2024-11-07 14:29:24,274 - app_logger - INFO - Retrieved date for review 2: 3 months ago
+2024-11-07 14:29:24,383 - app_logger - INFO - Retrieved review for review 2: 4 stars because Karan was simply amazing.
+
+We ordered take-out; two chicken entrées, and I really, really wanted to like it, but, it was too oily and had 3 small pieces of chicken, nan bread was small and too thin. And since we stayed at a hotel, our food was not placed into two plates, instead the rice was all in one container and had no utensils. The flavor however is good.
+
+Karan has amazing customer skills. I'll be going back to give it a second chance next time I visit Tempe.
+2024-11-07 14:29:24,501 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/google_reviews.json
+2024-11-07 14:29:26,834 - app_logger - INFO - Opened Google search results for the+dhaba in tempe
+2024-11-07 14:29:32,113 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 14:29:41,348 - app_logger - INFO - Opened Yelp with reviews for the+dhaba in tempe
+2024-11-07 14:29:52,393 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 14:29:52,490 - app_logger - INFO - Retrieved name of reviewer for review 1: Praveen S.
+2024-11-07 14:29:52,537 - app_logger - INFO - Retrieved star rating for review 1: 5 star rating
+2024-11-07 14:29:52,587 - app_logger - INFO - Retrieved date for review 1: Oct 21, 2024
+2024-11-07 14:29:52,634 - app_logger - INFO - Retrieved review for review 1: As I sat down, they got this papad with Chutneys! The setup got me in the mood to enjoy some chaat.
+Ordered Papadi Chaat and it was lip smacking ! The Papadi itself was freshly fried, I think. Tasty and I could feel the freshness.
+Dahi bhalle was equally delicious. Best part was - curd wasn't sweet! A rarity! Enjoyed a lot.
+
+Will visit again for proper lunch / dinner food.
+
+Servers were friendly and though it was taking a while for food to be served, I enjoyed the ambience of the place.
+2024-11-07 14:29:56,675 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 14:29:56,731 - app_logger - INFO - Retrieved name of reviewer for review 2: Ben B.
+2024-11-07 14:29:56,780 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 14:29:56,828 - app_logger - INFO - Retrieved date for review 2: Jul 23, 2024
+2024-11-07 14:29:56,880 - app_logger - INFO - Retrieved review for review 2: Came here on a whim, and we immediately fell in love. We got there a little late but they still accommodated (We had planned on a to go order but they invited us to stay).
+
+Food: first off those little thin chips that break and you dip dip in the sauces. Amazing texture and the flavor was perfect. This was the first mango lassi that I actually liked. It was so good, I forgot I didn't like them. Then the samosas came out. They were full, packed to the rim with delicious flavor. We ordered Paneer "naan" with the tikka masala. We will ALWAYS come here now.
+
+Service: you know that feeling of going over to grandmas house and you know you are loved, you are safe and you know you're gonna eat GOOD? Same same. We were treated so well and even though it was close to closing time we only felt appreciation from them for us coming in. Drinks were always full, Nick was so welcoming and really made it a great experience.
+
+Ambiance: from the outside it feels like an adventure. The second you open the door and get a whiff of what's been cooking you know you made a good decision. The waiting area was comfortable and had a good aesthetic for the restaurant. The plate ware, cups and silverware were unique and fit the restaurant vibe perfectly.
+
+Are we going back? Absolutely!
+Should you go? 100%
+2024-11-07 14:29:57,032 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
