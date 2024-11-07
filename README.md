@@ -12,9 +12,7 @@ A web scraper for extracting reviews from websites.
 * The scraper will output the reviews to a JSON file in the `output` directory
 
 ## Demo
-/*************  ✨ Codeium Command ⭐  *************/
-[![Demo Video]](https://youtu.be/0Ls05N8h98Y)
-/******  7cf90edb-6075-4ffa-9bf8-6ec738c8dd88  *******/
+[Demo Video](https://youtu.be/0Ls05N8h98Y)
 
 ## Configuration
 * The following variables are configurable in the `main.py` file:
