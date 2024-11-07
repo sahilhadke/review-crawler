@@ -33,21 +33,18 @@ class GoogleCrawler(ReviewCrawler):
             location = self.location.replace(" ", "+").lower().strip()
             sb.open(f"https://www.google.com/maps/search/{name}+{location}")
             sb.wait(2)  # Mandatory wait
-            time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
 
             # Click on the first restaurant
             restaurant_xpath = "//h1[contains(text(),'Results')]/../../../../div[3]/div/a"
             if sb.is_element_visible(restaurant_xpath):
                 sb.click(restaurant_xpath)
                 sb.wait(2)  # Mandatory wait
-            time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
 
             # Click on reviews
             review_button_xpath = "//button/div/div[contains(text(),'Reviews')]"
             if sb.is_element_visible(review_button_xpath):
                 sb.click(review_button_xpath)
                 sb.wait(2)  # Mandatory wait
-                time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
             else:
                 print('No reviews found')
                 return
@@ -56,20 +53,18 @@ class GoogleCrawler(ReviewCrawler):
             review_block_xpath = "//*[contains(@aria-label, 'Refine reviews')]/../div[8]"
             sb.scroll_into_view(review_block_xpath)
             sb.wait(1)  # Mandatory wait
-            time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
 
             # Scroll to reviews again
             review_block_xpath = "//*[contains(@aria-label, 'Refine reviews')]/../div[9]"
             sb.scroll_into_view(review_block_xpath)
             sb.wait(1)  # Mandatory wait
-            time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
 
             # Get review block class name
             review_block_class = "jftiEf"
             
             count = 1
             while count <= self.max_reviews:
-                time.sleep(random.randint(self.sleep_time_range[0], self.sleep_time_range[1]))
+                time.sleep(1)
                 name = ""
                 review = ""
                 star = ""
