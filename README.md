@@ -11,6 +11,9 @@ A web scraper for extracting reviews from websites.
 * Run `python3 main.py` to start the scraper
 * The scraper will output the reviews to a JSON file in the `output` directory
 
+## Demo
+[![Demo Video](https://youtu.be/0Ls05N8h98Y)](https://youtu.be/0Ls05N8h98Y)
+
 ## Configuration
 * The following variables are configurable in the `main.py` file:
 	+ `crawler_type`: specifies which crawler to use, can be "google", "yelp", or "both"

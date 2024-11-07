@@ -180,3 +180,282 @@ Ambiance: from the outside it feels like an adventure. The second you open the d
 Are we going back? Absolutely!
 Should you go? 100%
 2024-11-07 14:59:11,824 - app_logger - INFO - Saved 2 reviews to output/the_dhaba/yelp_reviews.json
+2024-11-07 15:03:34,294 - app_logger - INFO - Opened Google search results for thai+basil in tempe
+2024-11-07 15:03:36,457 - app_logger - INFO - Clicked on the first restaurant
+2024-11-07 15:03:38,593 - app_logger - INFO - Clicked on the reviews button
+2024-11-07 15:03:40,613 - app_logger - INFO - Scrolled to reviews
+2024-11-07 15:03:41,630 - app_logger - INFO - Scrolled to reviews again
+2024-11-07 15:03:43,700 - app_logger - INFO - Retrieved name of reviewer for review 1: Ian Petersen
+2024-11-07 15:03:43,751 - app_logger - INFO - Retrieved star rating for review 1: 5 stars
+2024-11-07 15:03:43,807 - app_logger - INFO - Retrieved date for review 1: 6 days ago
+2024-11-07 15:03:43,920 - app_logger - INFO - Retrieved review for review 1: We tried the restaurant after coming from the airport and it did not disappoint. We ordered the chicken pad Thai and pineapple chicken fried rice. The flavors were so rich and delicious. The cool part was being able to customize any dish with protein options and spiciness level. We also got the pot-stickers and fried banana ice cream (FBI) and they were equally delicious. The atmosphere was very quaint and welcoming. I would highly recommend this place.
+2024-11-07 15:03:44,981 - app_logger - INFO - Retrieved name of reviewer for review 2: Akua
+2024-11-07 15:03:45,032 - app_logger - INFO - Retrieved star rating for review 2: 4 stars
+2024-11-07 15:03:45,088 - app_logger - INFO - Retrieved date for review 2: 4 weeks ago
+2024-11-07 15:03:45,237 - app_logger - INFO - Retrieved review for review 2: Great service and friendly staff. Uniquely decorated and well maintained space. I tried their vegetable delight with calamari; take out. It was tasty with plenty of vegetables but a bit on the salty side. Will come back to try other suggestions.
+2024-11-07 15:03:46,300 - app_logger - INFO - Retrieved name of reviewer for review 3: sam wong
+2024-11-07 15:03:46,347 - app_logger - INFO - Retrieved star rating for review 3: 4 stars
+2024-11-07 15:03:46,403 - app_logger - INFO - Retrieved date for review 3: 2 months ago
+2024-11-07 15:03:46,534 - app_logger - INFO - Retrieved review for review 3: I found this restaurant on Google Maps and was intrigued by its impressive rating—over a thousand reviews and more than 4 stars. I was excited to have dinner here. I ordered the pineapple fried rice and pad thai, choosing a level 2 spiciness for both dishes, as offered by most Thai restaurants.
+
+When the dishes arrived, they smelled fantastic. The pineapple fried rice, made with curry powder and pineapple, was particularly addictive with its mix of sour and spicy flavors. However, my friend mentioned that the rice was a bit too wet. The pad thai, on the other hand, was just okay; it lacked the bold flavor of the fried rice, and the beef was dry and tough.
+
+Overall, the food was decent and the prices were reasonable. The restaurant's décor is also a nice touch, with plenty of elements that remind me of Thailand.
+2024-11-07 15:03:47,594 - app_logger - INFO - Retrieved name of reviewer for review 4: sarah abdelrasul
+2024-11-07 15:03:47,647 - app_logger - INFO - Retrieved star rating for review 4: 5 stars
+2024-11-07 15:03:47,701 - app_logger - INFO - Retrieved date for review 4: a week ago
+2024-11-07 15:03:47,815 - app_logger - INFO - Retrieved review for review 4: Farmer and university location has better parking and is cleaner inside.
+
+Service was quick and the food is so amazing. Red avocado curry, spring rolls, gyoza, pineapple fried rice were amongst the dishes we tried today.
+
+Lunch specials are available if you dine in.
+2024-11-07 15:03:48,897 - app_logger - INFO - Retrieved name of reviewer for review 5: Carmen Gottlieb
+2024-11-07 15:03:48,947 - app_logger - INFO - Retrieved star rating for review 5: 5 stars
+2024-11-07 15:03:49,002 - app_logger - INFO - Retrieved date for review 5: a week ago
+2024-11-07 15:03:49,129 - app_logger - INFO - Retrieved review for review 5: Delicious, small and cozy, waitress very nice, fast service , good price ..
+very recommended.
+2024-11-07 15:03:50,191 - app_logger - INFO - Retrieved name of reviewer for review 6: Gerri Poling
+2024-11-07 15:03:50,244 - app_logger - INFO - Retrieved star rating for review 6: 5 stars
+2024-11-07 15:03:50,320 - app_logger - INFO - Retrieved date for review 6: a month ago
+2024-11-07 15:03:50,435 - app_logger - INFO - Retrieved review for review 6: On a recommendation from the hotel staff, I visited Thai Basil and was very impressed. The Green Curry was exceptional, with just the right amount of spice and a rich, flavorful sauce. The ingredients tasted fresh, and the portion size was generous. The atmosphere of the restaurant was welcoming, and the staff was attentive and friendly. Overall, a great dining experience for anyone looking for delicious, authentic Thai cuisine!
+2024-11-07 15:03:51,498 - app_logger - INFO - Retrieved name of reviewer for review 7: Trinh Mary Hoang
+2024-11-07 15:03:51,548 - app_logger - INFO - Retrieved star rating for review 7: 5 stars
+2024-11-07 15:03:51,603 - app_logger - INFO - Retrieved date for review 7: 2 weeks ago
+2024-11-07 15:03:51,738 - app_logger - INFO - Retrieved review for review 7: We went to Tempe for conferences from Florida, and we found this place with fresh and amazing food. The customer service is awesome!! All the staff are very friendly. We were so happy to see they are doing great with the business. Highly recommended!!!
+2024-11-07 15:03:52,800 - app_logger - INFO - Retrieved name of reviewer for review 8: Jennifer Chesley
+2024-11-07 15:03:52,848 - app_logger - INFO - Retrieved star rating for review 8: 4 stars
+2024-11-07 15:03:52,903 - app_logger - INFO - Retrieved date for review 8: a year ago
+2024-11-07 15:03:53,016 - app_logger - INFO - Retrieved review for review 8: So I've had Thai Basil in California and loved it except their hot n sour soup.  Came here with husband and ordered drunken noodles (amazing dish to try!) pad see ew which I had in California (love this dish especially because it's a bit sweeter) and the Thai fried rice which I would highly recommend to go with anything you order!  What a ton of food  that came out hot, quick, and was so good!  Could not stop eating even after I was so full.  The place was quiet for a Friday night, very comfortable and small restaurant but beautifully lit and very clean.  Our server was so patient with us, very helpful in making selections carefully to fit our needs especially since I've had Thai food once and my husband's never had it.  Even though he's never been receptive to trying it, I finally convinced him and he's ready to back and try more as am I!  Highly recommend!  Bill after tip for iced teas and 3 entrees was $50 and we were very happy with it!
+2024-11-07 15:03:54,079 - app_logger - INFO - Retrieved name of reviewer for review 9: Diana Gonzalez
+2024-11-07 15:03:54,131 - app_logger - INFO - Retrieved star rating for review 9: 4 stars
+2024-11-07 15:03:54,208 - app_logger - INFO - Retrieved date for review 9: a year ago
+2024-11-07 15:03:54,327 - app_logger - INFO - Retrieved review for review 9: This is one of the prettiest curries I’ve ever had. It was delicious and so so creamy and flavorful. It was loaded with meat and veggies. Only thing I would improve was to make it spicier I got the hottest they had (I eat spicy). The Thai iced coffee was amazing.
+
+The service was good and the place clean. It was well decorated and serene.
+2024-11-07 15:03:55,386 - app_logger - INFO - Retrieved name of reviewer for review 10: Melinda Lee-Knopf
+2024-11-07 15:03:55,437 - app_logger - INFO - Retrieved star rating for review 10: 4 stars
+2024-11-07 15:03:55,492 - app_logger - INFO - Retrieved date for review 10: 2 years ago
+2024-11-07 15:03:55,690 - app_logger - INFO - Retrieved review for review 10: There are 6 locations but independent owners. Since we were in Tempe we decided to stop in because we were familiar with the name.
+
+Restaurant is small and cozy. I like how they take pride in their decorations. It vibes welcome to our heritage and enjoy your food in comfort.
+
+We ordered sweet and sour chicken and wonton soup. It was delicious 😋 and since it was Halloween they gave us a candy treat. I thought that was very thoughtful.
+
+Happy eating 😋
+2024-11-07 15:03:56,755 - app_logger - INFO - Retrieved name of reviewer for review 11: Amanda
+2024-11-07 15:03:56,805 - app_logger - INFO - Retrieved star rating for review 11: 5 stars
+2024-11-07 15:03:56,860 - app_logger - INFO - Retrieved date for review 11: 3 years ago
+2024-11-07 15:03:56,974 - app_logger - INFO - Retrieved review for review 11: Had amazing lunch here! Good comfort food and have veggies options. I had green curry with tofu and my friends had tom yum and pad thai with tofu. All are great! The portion is kind of big for my small stomach and had to take out half of my food, but the experience is smooth.
+2024-11-07 15:03:58,034 - app_logger - INFO - Retrieved name of reviewer for review 12: Gena E
+2024-11-07 15:03:58,086 - app_logger - INFO - Retrieved star rating for review 12: 4 stars
+2024-11-07 15:03:58,143 - app_logger - INFO - Retrieved date for review 12: 2 years ago
+2024-11-07 15:03:58,259 - app_logger - INFO - Retrieved review for review 12: I tried their signature dish called Thai Basil. It was quite good with the rice 🍚. If I had any notes it was a bit salty. My boyfriend had the Thai fried rice 🍚 with chicken. I think I liked his better than mine. It wasn't too salty at all. The Thai tea was great as well as the mango 🥭 sticky rice. Our waitress was nice and attentive. Oh also it's very large portion sizes.
+2024-11-07 15:03:59,365 - app_logger - INFO - Retrieved name of reviewer for review 13: S N
+2024-11-07 15:03:59,419 - app_logger - INFO - Retrieved star rating for review 13: 5 stars
+2024-11-07 15:03:59,486 - app_logger - INFO - Retrieved date for review 13: a year ago
+2024-11-07 15:03:59,604 - app_logger - INFO - Retrieved review for review 13: Sooooooo good! You MUST try it. Its not a big restaurant so I'm sure there may be a wait some times, but its totally worth it.. I got the Thai Basil signature dish with shrimp, my son got the garlic beef, and my husband got the spicy fried rice with shrimp. We all loved it. We will DEFINITELY  be back.
+2024-11-07 15:04:00,669 - app_logger - INFO - Retrieved name of reviewer for review 14: Rutuja Mohite
+2024-11-07 15:04:00,724 - app_logger - INFO - Retrieved star rating for review 14: 2 stars
+2024-11-07 15:04:00,780 - app_logger - INFO - Retrieved date for review 14: 3 months ago
+2024-11-07 15:04:00,896 - app_logger - INFO - Retrieved review for review 14: The food is above average but the person who was serving us was very rude. Tipping is optional but they literally said “you should’ve taken a takeout if you didn’t want to tip”. We are students, we save up and go out to eat. This is very rude. Even the bill was kept in front of us for a good hour when we were still eating. We were having a fantastic time until the server reacted like that.
+2024-11-07 15:04:01,958 - app_logger - INFO - Retrieved name of reviewer for review 15: Reade Whitwell
+2024-11-07 15:04:02,010 - app_logger - INFO - Retrieved star rating for review 15: 5 stars
+2024-11-07 15:04:02,092 - app_logger - INFO - Retrieved date for review 15: 3 weeks ago
+2024-11-07 15:04:02,210 - app_logger - INFO - Retrieved review for review 15: Very good, very fresh and tasty. The place is modest, nice and clean. The staff is wonderful, exhibiting the friendly atmosphere that the Thai culture is known for worldwide.
+Try this place, it may become your favorite.
+2024-11-07 15:04:03,273 - app_logger - INFO - Retrieved name of reviewer for review 16: Tanvir Ahmad
+2024-11-07 15:04:03,324 - app_logger - INFO - Retrieved star rating for review 16: 5 stars
+2024-11-07 15:04:03,382 - app_logger - INFO - Retrieved date for review 16: a year ago
+2024-11-07 15:04:03,498 - app_logger - INFO - Retrieved review for review 16: One of the best thai restaurants I’ve ever been to. Food was freshly made and the customer service was beyond amazing. Mix pad thai plate was my favorite one. I would recommend mint lemonade for a drink. Overall, it was a great place to have lunch. 👍
+2024-11-07 15:04:04,561 - app_logger - INFO - Retrieved name of reviewer for review 17: Michael Quick
+2024-11-07 15:04:04,664 - app_logger - INFO - Retrieved star rating for review 17: 5 stars
+2024-11-07 15:04:04,728 - app_logger - INFO - Retrieved date for review 17: a year ago
+2024-11-07 15:04:04,865 - app_logger - INFO - Retrieved review for review 17: We had out of town guests that had a craving for Thai food and we needed to be near downtown Tempe for an event. There were a few options but this one seemed to have the best combo of location and good reviews. I'm glad we made this choice! The staff was welcoming and friendly. We ordered Thai iced teas and Thai Iced coffee and they were a fantastic way to start - they were huge too! We ordered family style and shared several dishes - all were amazing: flavorful, well presented, good portions. It's always a little risky taking guests to someplace new but this will definitely join our favorites list!
+2024-11-07 15:04:05,928 - app_logger - INFO - Retrieved name of reviewer for review 18: K N
+2024-11-07 15:04:05,981 - app_logger - INFO - Retrieved star rating for review 18: 5 stars
+2024-11-07 15:04:06,036 - app_logger - INFO - Retrieved date for review 18: 4 months ago
+2024-11-07 15:04:06,154 - app_logger - INFO - Retrieved review for review 18: Had the red curry. Was fantastic, A+
+
+I don't know if this is just because I just moved here from upstate New York and they can't do spicy there at all, but I nearly shed a tear.
+2024-11-07 15:04:07,217 - app_logger - INFO - Retrieved name of reviewer for review 19: Valentina Zuluaga
+2024-11-07 15:04:07,269 - app_logger - INFO - Retrieved star rating for review 19: 1 star
+2024-11-07 15:04:07,350 - app_logger - INFO - Retrieved date for review 19: 2 months ago
+2024-11-07 15:04:07,467 - app_logger - INFO - Retrieved review for review 19: Service is a joke. Food is great. It doesn’t matter if you are a good customer and come regularly, they won’t let you come in and grab at 9:20pm even tho it clearly says they close at 10pm. The waitress said they didn’t want to clean up lol Lazy servers, it’s a shame because the food is great. My questions is why are you are in the food and restaurant business? Cleaning is a part of the job. 0 stars for lack of hospitality.
+2024-11-07 15:04:08,530 - app_logger - INFO - Retrieved name of reviewer for review 20: Arti Sarma
+2024-11-07 15:04:08,582 - app_logger - INFO - Retrieved star rating for review 20: 5 stars
+2024-11-07 15:04:08,637 - app_logger - INFO - Retrieved date for review 20: 6 years ago
+2024-11-07 15:04:08,753 - app_logger - INFO - Retrieved review for review 20: My favorite local Thai restaurant! I come here as much as I can and my friends laugh at me because sometimes I'm already back there again the next day! Absolutely LOVE the Green curry and Peanut Panang Curry with tofu. Tastes so rich and creamy and piled with fresh steaming hot veggies! My friend ordered a salad there too and there was a nice big portion size and it looked delicious. Great lunch specials. Very conscientious in this location about vegan and vegetarian friendly options. Nice ambiance with traditional Thai decor in a cozy setting close to everything in Tempe. Free parking outside and friendly service.
+2024-11-07 15:04:09,820 - app_logger - INFO - Retrieved name of reviewer for review 21: Empress
+2024-11-07 15:04:09,873 - app_logger - INFO - Retrieved star rating for review 21: 5 stars
+2024-11-07 15:04:09,933 - app_logger - INFO - Retrieved date for review 21: a year ago
+2024-11-07 15:04:10,053 - app_logger - INFO - Retrieved review for review 21: Food is amazing and customer service is amazing. Everything is so good . I’m grateful for being able to have been taken to this amazing place. Definitely recommend. They have different level of spiciness and pretty much whatever you get is so so good .
+2024-11-07 15:04:11,114 - app_logger - INFO - Retrieved name of reviewer for review 22: Hari Jeyaraman
+2024-11-07 15:04:11,165 - app_logger - INFO - Retrieved star rating for review 22: 5 stars
+2024-11-07 15:04:11,223 - app_logger - INFO - Retrieved date for review 22: a month ago
+2024-11-07 15:04:11,343 - app_logger - INFO - Retrieved review for review 22: The staff were very nice to us and even showed us how to take pad Thai from a plate and put it on someone else’s plate with a fork and spoon. They also served extremely fast and the food was absolutely amazing. It’s 30 mins away but I would gladly drive that far to get there. Again, great service, mind-blowingly good food, and it’s even good for vegetarians. Awesome, keep up the good work!
+2024-11-07 15:04:12,407 - app_logger - INFO - Retrieved name of reviewer for review 23: Rebecca Annes
+2024-11-07 15:04:12,456 - app_logger - INFO - Retrieved star rating for review 23: 5 stars
+2024-11-07 15:04:12,513 - app_logger - INFO - Retrieved date for review 23: 3 months ago
+2024-11-07 15:04:12,630 - app_logger - INFO - Retrieved review for review 23: I usually order takeout from here but I also like eating in because it's a chill atmosphere. The food is always amazing, never had a bad dish and I've been coming here for years. Great service! Highly recommend for Thai in Tempe.
+2024-11-07 15:04:13,716 - app_logger - INFO - Retrieved name of reviewer for review 24: Eli G
+2024-11-07 15:04:13,769 - app_logger - INFO - Retrieved star rating for review 24: 5 stars
+2024-11-07 15:04:13,828 - app_logger - INFO - Retrieved date for review 24: a week ago
+2024-11-07 15:04:13,898 - app_logger - INFO - Retrieved review for review 24: I mainly go for the shrimp fried rice. Extra shrimp. But never extra extra shrimp. You won’t see the difference. Never had anything else here, but it’s absolutely fire, ask around.
+2024-11-07 15:04:14,962 - app_logger - INFO - Retrieved name of reviewer for review 25: Max
+2024-11-07 15:04:15,015 - app_logger - INFO - Retrieved star rating for review 25: 5 stars
+2024-11-07 15:04:15,071 - app_logger - INFO - Retrieved date for review 25: a year ago
+2024-11-07 15:04:15,193 - app_logger - INFO - Retrieved review for review 25: Everything was perfect, no room for improvement. Came in for lunch, got the chicken pad thai at medium spice. The soup that comes out when you sit was probably the best soup I’ve ever had. Portions were big and the price was fair! Will be coming back
+2024-11-07 15:04:15,361 - app_logger - INFO - Saved 25 reviews to output/thai_basil/google_reviews.json
+2024-11-07 15:04:17,582 - app_logger - INFO - Opened Google search results for thai+basil in tempe
+2024-11-07 15:04:21,994 - app_logger - INFO - Clicked on the first Google link
+2024-11-07 15:04:34,337 - app_logger - INFO - Scrolled to review block for review 1
+2024-11-07 15:04:34,399 - app_logger - INFO - Retrieved name of reviewer for review 1: Nancy S.
+2024-11-07 15:04:34,445 - app_logger - INFO - Retrieved star rating for review 1: 2 star rating
+2024-11-07 15:04:34,494 - app_logger - INFO - Retrieved date for review 1: Jun 30, 2024
+2024-11-07 15:04:34,545 - app_logger - INFO - Retrieved review for review 1: Not happy to give this place a poor review. I love Thai food and know what it's supposed to taste like. The only good thing is food is prepared quickly. But the way they've cut corners on their dishes has unfortunately really, really impacted the quality of their food.
+
+Drunken noodle - Taste was so off. I noticed color looked a little weird, thought nothing of it. But I couldn't taste the palm sugar or oyster sauce or anything that usually goes into pad kee mao. Noodles had been overcooked and no longer chewy, only disintegrated in your mouth with an unpleasant texture. Veggies cut poorly (chunky), seemed more appropriate for a stir fry. Because of this, some of them were cooked unevenly. Not a good order.
+
+Mango sticky rice - it's hard to mess this up, but this could also be improved. Mango was nice, but this was the blandest mango sticky rice I've ever had. I'm pretty sure they only used coconut milk to top the rice, and maybe cooked the glutinous rice with some minor sweetener. Mango was nice and ripe but I feel the rest of the dish was lacking in support.
+
+Just a really disappointing experience with Thai Basil here. To me, this is another symptom of a restaurant located in a college town. There are many other thai places in the area that I'll explore instead.
+2024-11-07 15:04:36,579 - app_logger - INFO - Scrolled to review block for review 2
+2024-11-07 15:04:36,630 - app_logger - INFO - Retrieved name of reviewer for review 2: Fred C.
+2024-11-07 15:04:36,694 - app_logger - INFO - Retrieved star rating for review 2: 5 star rating
+2024-11-07 15:04:36,750 - app_logger - INFO - Retrieved date for review 2: Sep 27, 2024
+2024-11-07 15:04:36,800 - app_logger - INFO - Retrieved review for review 2: The food and portion size was delicious and large. Service was welcoming, prompt and courteous. Wonderful for lunch
+2024-11-07 15:04:38,831 - app_logger - INFO - Scrolled to review block for review 3
+2024-11-07 15:04:38,890 - app_logger - INFO - Retrieved name of reviewer for review 3: Le T.
+2024-11-07 15:04:38,933 - app_logger - INFO - Retrieved star rating for review 3: 3 star rating
+2024-11-07 15:04:38,983 - app_logger - INFO - Retrieved date for review 3: Sep 1, 2023
+2024-11-07 15:04:39,031 - app_logger - INFO - Retrieved review for review 3: The restaurant had a very welcoming vibe with nice thai decorations. The server was friendly and attentive.
+
+My fiancé and I ordered the beef salad, bbq chicken, shrimp and tofu pad thai. The beef salad was very flavorful with a large serving amount of beef. The bbq chicken was. delicious with the sauce.
+
+The pad thai was a little on the bitter side. The pad thai was not my favorite dish but everything else was delicious.
+2024-11-07 15:04:42,064 - app_logger - INFO - Scrolled to review block for review 4
+2024-11-07 15:04:42,120 - app_logger - INFO - Retrieved name of reviewer for review 4: Dalila V.
+2024-11-07 15:04:42,165 - app_logger - INFO - Retrieved star rating for review 4: 4 star rating
+2024-11-07 15:04:42,217 - app_logger - INFO - Retrieved date for review 4: Mar 25, 2024
+2024-11-07 15:04:42,266 - app_logger - INFO - Retrieved review for review 4: Great for takeout! I ordered over the phone and my food was ready exactly at the time they said it would be and everything was exactly as I ordered it. The food was pretty good (ordered spring rolls and a curry). The medium spice level is spicy enough where you may want something to wash it down with but not so spicy that it takes away from the flavor. That said I will probably order the mild in the future
+2024-11-07 15:04:45,298 - app_logger - INFO - Scrolled to review block for review 5
+2024-11-07 15:04:45,353 - app_logger - INFO - Retrieved name of reviewer for review 5: Nicole B.
+2024-11-07 15:04:45,399 - app_logger - INFO - Retrieved star rating for review 5: 4 star rating
+2024-11-07 15:04:45,448 - app_logger - INFO - Retrieved date for review 5: Aug 27, 2023
+2024-11-07 15:04:45,499 - app_logger - INFO - Retrieved review for review 5: Depending on what you get, Thai Basil can be pretty amazing. My fav dish of theirs is the chicken katsu or chicken curry. Some dishes are more expensive and as a college student, I'm always looking for the biggest bang for my buck. It's best to get takeout from Thai Basil, you will get so much more food. It's a 5/5 for takeout and the dishes i mentioned but of course I have to take the atmosphere into consideration. The restaurant is quite dim and service can be slower if you do order at a busy time. The staff is extremely sweet though and would always love to offer suggestions.
+2024-11-07 15:04:47,551 - app_logger - INFO - Scrolled to review block for review 6
+2024-11-07 15:04:47,611 - app_logger - INFO - Retrieved name of reviewer for review 6: Shannon G.
+2024-11-07 15:04:47,652 - app_logger - INFO - Retrieved star rating for review 6: 4 star rating
+2024-11-07 15:04:47,704 - app_logger - INFO - Retrieved date for review 6: Feb 10, 2024
+2024-11-07 15:04:47,755 - app_logger - INFO - Retrieved review for review 6: The food was good. It was my first time having Thai food. I did enjoy it. The service was very slow, though it seemed like we waited forever to get our order taken, and our food to arrive.
+2024-11-07 15:04:50,792 - app_logger - INFO - Scrolled to review block for review 7
+2024-11-07 15:04:50,847 - app_logger - INFO - Retrieved name of reviewer for review 7: Callie P.
+2024-11-07 15:04:50,889 - app_logger - INFO - Retrieved star rating for review 7: 5 star rating
+2024-11-07 15:04:50,938 - app_logger - INFO - Retrieved date for review 7: Dec 5, 2023
+2024-11-07 15:04:50,988 - app_logger - INFO - Retrieved review for review 7: Supper good. Food was ready pretty fast for a party of 12 people. Thr place was really clean and the staff was friendly l.
+2024-11-07 15:04:54,018 - app_logger - INFO - Scrolled to review block for review 8
+2024-11-07 15:04:54,072 - app_logger - INFO - Retrieved name of reviewer for review 8: Juliana L.
+2024-11-07 15:04:54,141 - app_logger - INFO - Retrieved star rating for review 8: 4 star rating
+2024-11-07 15:04:54,190 - app_logger - INFO - Retrieved date for review 8: Nov 17, 2022
+2024-11-07 15:04:54,241 - app_logger - INFO - Retrieved review for review 8: I work about a 5-minute walk from Thai Basil, so my coworkers and I frequent this restaurant for takeout.
+
+I love Thai Basil's curry! I prefer green curry, but the yellow curry (pictured) is also excellent. Both the curry flavor and consistency are spot-on with a generous portion.
+
+I enjoy the pad see ew and pad thai as both have rich flavors. However, in general I find the vegetables to be a bit too crunchy/undercooked.
+2024-11-07 15:04:56,272 - app_logger - INFO - Scrolled to review block for review 9
+2024-11-07 15:04:56,322 - app_logger - INFO - Retrieved name of reviewer for review 9: Buncha P.
+2024-11-07 15:04:56,366 - app_logger - INFO - Retrieved star rating for review 9: 5 star rating
+2024-11-07 15:04:56,417 - app_logger - INFO - Retrieved date for review 9: Aug 11, 2023
+2024-11-07 15:04:56,467 - app_logger - INFO - Retrieved review for review 9: Today I brought a friend for lunch. I ordered a vegetable drunkard with the most delicious vegetable fried rice. I just ate red curry last week, so I have to bring my friends more often.
+The service was excellent, especially Jenny. She was really good at serving .
+2024-11-07 15:04:58,501 - app_logger - INFO - Scrolled to review block for review 10
+2024-11-07 15:04:58,564 - app_logger - INFO - Retrieved name of reviewer for review 10: Maddie M.
+2024-11-07 15:04:58,624 - app_logger - INFO - Retrieved star rating for review 10: 4 star rating
+2024-11-07 15:04:58,675 - app_logger - INFO - Retrieved date for review 10: Sep 8, 2024
+2024-11-07 15:04:58,729 - app_logger - INFO - Retrieved review for review 10: The chicken pad thai & thai tea so good! i would just ask for no tofu in the pad thai
+2024-11-07 15:05:00,871 - app_logger - INFO - Clicked on next page for review 11
+2024-11-07 15:05:03,902 - app_logger - INFO - Scrolled to review block for review 11
+2024-11-07 15:05:03,958 - app_logger - INFO - Retrieved name of reviewer for review 11: Saraely O.
+2024-11-07 15:05:04,001 - app_logger - INFO - Retrieved star rating for review 11: 5 star rating
+2024-11-07 15:05:04,048 - app_logger - INFO - Retrieved date for review 11: Jun 11, 2024
+2024-11-07 15:05:04,098 - app_logger - INFO - Retrieved review for review 11: I love getting the yellow curry or the cashew chicken! You can't go wrong with that!! I brought my team here and they all loved it! We would all come back
+2024-11-07 15:05:07,129 - app_logger - INFO - Scrolled to review block for review 12
+2024-11-07 15:05:07,178 - app_logger - INFO - Retrieved name of reviewer for review 12: Vanessa H.
+2024-11-07 15:05:07,221 - app_logger - INFO - Retrieved star rating for review 12: 5 star rating
+2024-11-07 15:05:07,272 - app_logger - INFO - Retrieved date for review 12: Jun 30, 2022
+2024-11-07 15:05:07,320 - app_logger - INFO - Retrieved review for review 12: Best location I have tried so far! I put in a pick up order and it was ready when I arrived about 15 minutes later. The food was still hot when I got home about 25 minutes later! I ordered pad Thai, pad see ew, spring rolls and red curry. The pad Thai is the best! I ordered it with chicken and it was delicious. The portion was so large that I only finished half of it. The pad see ew was ordered with tofu for my sister and she enjoyed it! The red curry was ordered with chicken and my boyfriend loved it. It came with white rice. The spring rolls were tasty with the sweet and sour dipping sauce.
+
+They gave us some extra spring rolls I'm pretty sure! And lots of extra dipping sauces. That was a lovely surprise!
+
+Love this place!
+2024-11-07 15:05:09,350 - app_logger - INFO - Scrolled to review block for review 13
+2024-11-07 15:05:09,395 - app_logger - INFO - Retrieved name of reviewer for review 13: G C.
+2024-11-07 15:05:09,440 - app_logger - INFO - Retrieved star rating for review 13: 5 star rating
+2024-11-07 15:05:09,490 - app_logger - INFO - Retrieved date for review 13: Nov 22, 2023
+2024-11-07 15:05:09,536 - app_logger - INFO - Retrieved review for review 13: Got take out today! So delicious! 10 mins wait. Masuman curry, crying tiger and drunken noodles very good and big portions. You can tell they take pride and time into their food...the potatoes and carrots were cut elegantly.... Staff was so friendly and kind...while we waited... they offered us water and made us feel welcome. There was a cute lil grandma so kind! They smiled as we waited... love it!
+
+I live in Las Cruces NM and it's a food/culture desert only two Thai places are available and only one is edible. You all are so lucky enjoy!!!
+2024-11-07 15:05:11,564 - app_logger - INFO - Scrolled to review block for review 14
+2024-11-07 15:05:11,621 - app_logger - INFO - Retrieved name of reviewer for review 14: Gwenyth I.
+2024-11-07 15:05:11,664 - app_logger - INFO - Retrieved star rating for review 14: 5 star rating
+2024-11-07 15:05:11,713 - app_logger - INFO - Retrieved date for review 14: Aug 10, 2024
+2024-11-07 15:05:11,779 - app_logger - INFO - Retrieved review for review 14: Thai Basil is a Tempe staple! The food is amazing and fresh. The staff is always very friendly and helpful. The facility is also kept up nicely and clean. I've been going here for years and have no complaints.
+2024-11-07 15:05:13,807 - app_logger - INFO - Scrolled to review block for review 15
+2024-11-07 15:05:13,860 - app_logger - INFO - Retrieved name of reviewer for review 15: Wisdom S.
+2024-11-07 15:05:13,903 - app_logger - INFO - Retrieved star rating for review 15: 5 star rating
+2024-11-07 15:05:13,952 - app_logger - INFO - Retrieved date for review 15: Mar 31, 2024
+2024-11-07 15:05:14,003 - app_logger - INFO - Retrieved review for review 15: Very fresh, very healthy, very satisfying! And the service is outstanding! My favorite dish is the drunken noodles. A must have!
+2024-11-07 15:05:17,035 - app_logger - INFO - Scrolled to review block for review 16
+2024-11-07 15:05:17,099 - app_logger - INFO - Retrieved name of reviewer for review 16: Justice E.
+2024-11-07 15:05:17,143 - app_logger - INFO - Retrieved star rating for review 16: 1 star rating
+2024-11-07 15:05:17,190 - app_logger - INFO - Retrieved date for review 16: Apr 6, 2024
+2024-11-07 15:05:17,282 - app_logger - INFO - Retrieved review for review 16: Made me feel bad for being allergic to something and had to send it back , even offered to pay for it and still was rude.
+2024-11-07 15:05:19,313 - app_logger - INFO - Scrolled to review block for review 17
+2024-11-07 15:05:19,363 - app_logger - INFO - Retrieved name of reviewer for review 17: Kelly T.
+2024-11-07 15:05:19,405 - app_logger - INFO - Retrieved star rating for review 17: 5 star rating
+2024-11-07 15:05:19,454 - app_logger - INFO - Retrieved date for review 17: Jun 30, 2024
+2024-11-07 15:05:19,503 - app_logger - INFO - Retrieved review for review 17: This place has the best green curry I've ever had in my life. Will forever love this location!!
+2024-11-07 15:05:21,562 - app_logger - INFO - Scrolled to review block for review 18
+2024-11-07 15:05:21,622 - app_logger - INFO - Retrieved name of reviewer for review 18: Ali Rose H.
+2024-11-07 15:05:21,665 - app_logger - INFO - Retrieved star rating for review 18: 2 star rating
+2024-11-07 15:05:21,721 - app_logger - INFO - Retrieved date for review 18: Jan 28, 2024
+2024-11-07 15:05:21,773 - app_logger - INFO - Retrieved review for review 18: My fiancé said his meal was pretty good but the massaman curry with chicken I ordered tasted rancid. I ended up throwing it out.
+2024-11-07 15:05:24,831 - app_logger - INFO - Scrolled to review block for review 19
+2024-11-07 15:05:24,897 - app_logger - INFO - Retrieved name of reviewer for review 19: Stephanie H.
+2024-11-07 15:05:24,968 - app_logger - INFO - Retrieved star rating for review 19: 4 star rating
+2024-11-07 15:05:25,022 - app_logger - INFO - Retrieved date for review 19: Sep 9, 2023
+2024-11-07 15:05:25,073 - app_logger - INFO - Retrieved review for review 19: Service is always hit or miss, I've started doing take out so it's faster. They have really good deals on lunch. I always get the Panang curry with tofu, pad Thai with chicken and pad se ew! Their spice isn't super spicy but it's pretty decent Thai!
+2024-11-07 15:05:28,101 - app_logger - INFO - Scrolled to review block for review 20
+2024-11-07 15:05:28,154 - app_logger - INFO - Retrieved name of reviewer for review 20: Kim L.
+2024-11-07 15:05:28,197 - app_logger - INFO - Retrieved star rating for review 20: 5 star rating
+2024-11-07 15:05:28,250 - app_logger - INFO - Retrieved date for review 20: May 29, 2023
+2024-11-07 15:05:28,299 - app_logger - INFO - Retrieved review for review 20: WOW. The panang sweet curry is DELICIOUS it's actually amazing. Definitely recommend. They need to add more chicken, but other than that you should order it cause I'm dying over how good it is!!!
+2024-11-07 15:05:30,441 - app_logger - INFO - Clicked on next page for review 21
+2024-11-07 15:05:33,497 - app_logger - INFO - Scrolled to review block for review 21
+2024-11-07 15:05:33,565 - app_logger - INFO - Retrieved name of reviewer for review 21: Toby D.
+2024-11-07 15:05:33,614 - app_logger - INFO - Retrieved star rating for review 21: 3 star rating
+2024-11-07 15:05:33,666 - app_logger - INFO - Retrieved date for review 21: Nov 4, 2023
+2024-11-07 15:05:33,721 - app_logger - INFO - Retrieved review for review 21: Under new management and now it's just okay, not as sublimely wonderful as it used to be.
+2024-11-07 15:05:36,778 - app_logger - INFO - Scrolled to review block for review 22
+2024-11-07 15:05:36,834 - app_logger - INFO - Retrieved name of reviewer for review 22: Alma D.
+2024-11-07 15:05:36,886 - app_logger - INFO - Retrieved star rating for review 22: 5 star rating
+2024-11-07 15:05:36,940 - app_logger - INFO - Retrieved date for review 22: May 16, 2024
+2024-11-07 15:05:36,993 - app_logger - INFO - Retrieved review for review 22: Love this place!!! So clean The staff is very friendly and the food is be back soon for sure!!
+2024-11-07 15:05:40,053 - app_logger - INFO - Scrolled to review block for review 23
+2024-11-07 15:05:40,117 - app_logger - INFO - Retrieved name of reviewer for review 23: Hannah S.
+2024-11-07 15:05:40,166 - app_logger - INFO - Retrieved star rating for review 23: 5 star rating
+2024-11-07 15:05:40,220 - app_logger - INFO - Retrieved date for review 23: May 20, 2024
+2024-11-07 15:05:40,273 - app_logger - INFO - Retrieved review for review 23: Always a great experience!! Ive gone here for years and will continue to. I recommend this place to everyone
+2024-11-07 15:05:43,300 - app_logger - INFO - Scrolled to review block for review 24
+2024-11-07 15:05:43,354 - app_logger - INFO - Retrieved name of reviewer for review 24: Alex W.
+2024-11-07 15:05:43,399 - app_logger - INFO - Retrieved star rating for review 24: 5 star rating
+2024-11-07 15:05:43,447 - app_logger - INFO - Retrieved date for review 24: Jan 16, 2022
+2024-11-07 15:05:43,494 - app_logger - INFO - Retrieved review for review 24: Tried and true, Thai Basil. We have so many options in Tempe for Thai but I'm fairly set on this location next to ASU (even during the school year). Usually I order online or carry out, and with both options, it's never taken forever! Service is so fast. Anytime I go in for carry out there's always a decent crowd there. I know the lunch specials are amazing for the price just as in general for combo meals.
+
+Usually I order Pad Thai or yellow curry and a side like pot stickers or spring rolls... good for a few meals. I know people can be quite particular for spice level... even on the low end (what I order) it is pretty flavorful and not overtly spicy. Spring rolls are better than the pot stickers. Feels like in the last few years the noodle to meat/veggie ratio has gone up.
+2024-11-07 15:05:45,524 - app_logger - INFO - Scrolled to review block for review 25
+2024-11-07 15:05:45,580 - app_logger - INFO - Retrieved name of reviewer for review 25: Lei G.
+2024-11-07 15:05:45,621 - app_logger - INFO - Retrieved star rating for review 25: 4 star rating
+2024-11-07 15:05:45,669 - app_logger - INFO - Retrieved date for review 25: Jan 22, 2022
+2024-11-07 15:05:45,717 - app_logger - INFO - Retrieved review for review 25: Ordered lunch from Uber Eats. Delivery was great. Got Green Curry with chicken & Spicy Noodles with pork. Both were ordered with medium spicy, but didn't have much flavor/spice. Both dishes came with a spring roll which was tasty. Next time placing an order will order spicier. The highlight was the eggplant in the green curry.
+2024-11-07 15:05:45,990 - app_logger - INFO - Saved 25 reviews to output/thai_basil/yelp_reviews.json
