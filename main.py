@@ -7,12 +7,12 @@ def main():
     """
 
     # Get dynamic input for crawler type, max reviews, restaurant name, and location
-    crawler_type = "yelp"   # "google", "yelp", or "both"
-    max_reviews = 2  # Maximum number of reviews to crawl
-    restaurant_name = "The Dhaba"  # Name of the restaurant to crawl
+    crawler_type = "both"   # "google", "yelp", or "both"
+    max_reviews = 25  # Maximum number of reviews to crawl
+    restaurant_name = "Thai Basil"  # Name of the restaurant to crawl
     location = "Tempe"  # Location of the restaurant
-    min_sleep_time = 3  # Minimum time to sleep between requests in seconds
-    max_sleep_time = 4  # Maximum time to sleep between requests in seconds
+    min_sleep_time = 2  # Minimum time to sleep between requests in seconds
+    max_sleep_time = 3  # Maximum time to sleep between requests in seconds
     max_tries = 3 # Yelp blocks IP - retries if it fails
 
     # Instantiate the appropriate crawler
