@@ -2,15 +2,17 @@
 from reviewcrawler import GoogleCrawler, YelpCrawler
 
 def main():
-    
-    
-    # Dynamic input for crawler type, max reviews, restaurant name, and location
-    crawler_type = "both"
-    max_reviews = 25
-    restaurant_name = "The Chuckbox"
-    location = "Tempe"
-    min_sleep_time = 3
-    max_sleep_time = 4
+    """
+    Main function to run the review crawlers.
+    """
+
+    # Get dynamic input for crawler type, max reviews, restaurant name, and location
+    crawler_type = "both"   # "google", "yelp", or "both"
+    max_reviews = 25  # Maximum number of reviews to crawl
+    restaurant_name = "The Chuckbox"  # Name of the restaurant to crawl
+    location = "Tempe"  # Location of the restaurant
+    min_sleep_time = 3  # Minimum time to sleep between requests in seconds
+    max_sleep_time = 4  # Maximum time to sleep between requests in seconds
 
     # Instantiate the appropriate crawler
     gcrawler = None
